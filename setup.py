@@ -17,7 +17,7 @@ setup(
     name="quadroots",
     version=VERSION,
     author="Shaun Porwal",
-    author_email="shaun.porwal@gmail.com>",
+    author_email="shaun.porwal@gmail.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
